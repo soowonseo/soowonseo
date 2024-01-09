@@ -2,7 +2,8 @@
 
 ### 😄sns
  <a href="https://www.instagram.com/soowonnni/" target="_blank"><img src="https://img.shields.io/badge/Instagram-색코드?style=flat-square&logo=#E4405F&logoColor=white"/></a>
- <a href="https://blog.naver.com/tjtndnjs3" target="_blank"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Naver</title><path d="M16.273 12.845 7.376 0H0v24h7.726V11.156L16.624 24H24V0h-7.727v12.845Z"/></svg>
+ <a href="https://blog.naver.com/tjtndnjs3"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=https://blog.naver.com/tjtndnjs3"/></a>&nbsp
+
 <!--
 **soowonseo/soowonseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
